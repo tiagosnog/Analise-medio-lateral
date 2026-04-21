@@ -6,12 +6,12 @@ Para acessar o dataset, baixe os arquivos disponíveis no link: https://drive.go
 
 Salve o dataset e o código na mesma pasta, as bibliotecas necessárias estão listadas no arquivo requirements.
 
-Licença
+Licença:
 Este projeto está sob a licença especificada no arquivo LICENSE.
 
-Autores
-Tiago Nogueira
-Renato Naville Watanabe
+Autores:
+Tiago Nogueira.
+Renato Naville Watanabe.
 
-Data
-Abril 2026
+Data:
+Abril 2026.
