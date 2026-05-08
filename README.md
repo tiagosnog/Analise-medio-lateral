@@ -1,4 +1,4 @@
-Dados e código utilizados para a elaboração do artigo “Análise da força médio-lateral na marcha por decomposição Butterworth e wavelet discreta em indivíduos com disfunção no joelho”.
+Dados e código utilizados para a elaboração do artigo “Análise da força médio-lateral na marcha por decomposição wavelet discreta em indivíduos com disfunção no joelho”.
 
 Download:
 
